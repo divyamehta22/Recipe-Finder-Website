@@ -1,0 +1,1 @@
+This JavaScript project fetches meal recipes from API based on user input. It displays meal details like name, category, origin, and image, with a "View Recipe" button to show ingredients and instructions in a popup.
